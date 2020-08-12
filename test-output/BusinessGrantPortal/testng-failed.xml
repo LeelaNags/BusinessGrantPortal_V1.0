@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BusinessGrantPortal]">
+  <listeners>
+    <listener class-name="com.grantportal.utilities.Report"/>
+  </listeners>
+  <test thread-count="5" name="BGP Automation TestCases(failed)">
+    <parameter name="baseURL" value="https://public:Let$BeC001@bgp-qa.gds-gov.tech/"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.grantportal.testCases.TC_Eligibility_AC4">
+        <methods>
+          <include name="verifyEligibilityQuestions"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.grantportal.testCases.TC_Eligibility_AC4 -->
+    </classes>
+  </test> <!-- BGP Automation TestCases(failed) -->
+</suite> <!-- Failed suite [BusinessGrantPortal] -->

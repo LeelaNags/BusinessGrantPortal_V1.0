@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BusinessGrantPortal" duration-ms="48238" started-at="2020-08-11T22:23:53 SGT" finished-at="2020-08-11T22:24:41 SGT">
+    <groups>
+    </groups>
+    <test name="BGP Automation TestCases" duration-ms="48238" started-at="2020-08-11T22:23:53 SGT" finished-at="2020-08-11T22:24:41 SGT">
+      <class name="com.grantportal.testCases.TC_Eligibility_AC4">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.grantportal.testCases.TC_Eligibility_AC4@687080dc]" name="setup" is-config="true" duration-ms="12087" started-at="2020-08-11T22:23:53 SGT" finished-at="2020-08-11T22:24:05 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://public:Let$BeC001@bgp-qa.gds-gov.tech/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyEligibilityQuestions()[pri:0, instance:com.grantportal.testCases.TC_Eligibility_AC4@687080dc]" name="verifyEligibilityQuestions" duration-ms="35117" started-at="2020-08-11T22:24:05 SGT" finished-at="2020-08-11T22:24:40 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEligibilityQuestions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.grantportal.testCases.TC_Eligibility_AC4@687080dc]" name="tearDown" is-config="true" duration-ms="802" started-at="2020-08-11T22:24:41 SGT" finished-at="2020-08-11T22:24:41 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.grantportal.testCases.TC_Eligibility_AC4 -->
+    </test> <!-- BGP Automation TestCases -->
+  </suite> <!-- BusinessGrantPortal -->
+</testng-results>

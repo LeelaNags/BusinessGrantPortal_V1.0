@@ -1,0 +1,995 @@
+2020-08-05 03:55:26,525 - AccessGrantPortal -INFO - url is opened
+2020-08-05 03:55:27,606 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 03:55:27,690 - AccessGrantPortal -INFO - Enter username
+2020-08-05 03:55:27,811 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 03:55:28,592 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 04:31:49,826 - AccessGrantPortal -INFO - url is opened
+2020-08-05 04:31:50,784 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 04:31:50,858 - AccessGrantPortal -INFO - Enter username
+2020-08-05 04:31:50,963 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 04:31:51,538 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 04:53:59,839 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 04:54:12,050 - AccessGrantPortal -INFO - url is opened
+2020-08-05 04:54:12,976 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 04:54:13,067 - AccessGrantPortal -INFO - Enter username
+2020-08-05 04:54:13,162 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 04:54:13,573 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 04:54:37,469 - AccessGrantPortal -INFO - launch firefox
+2020-08-05 04:54:46,739 - AccessGrantPortal -INFO - url is opened
+2020-08-05 04:54:48,301 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 04:54:48,335 - AccessGrantPortal -INFO - Enter username
+2020-08-05 04:54:48,363 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 04:54:49,911 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 04:55:18,007 - AccessGrantPortal -INFO - launch Internet Explorer
+2020-08-05 04:55:45,663 - AccessGrantPortal -INFO - launch Internet Explorer
+2020-08-05 05:00:15,465 - AccessGrantPortal -INFO - launch Internet Explorer
+2020-08-05 05:00:58,277 - AccessGrantPortal -INFO - launch Internet Explorer
+2020-08-05 05:01:43,066 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 05:01:55,367 - AccessGrantPortal -INFO - url is opened
+2020-08-05 05:01:56,103 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 05:01:56,204 - AccessGrantPortal -INFO - Enter username
+2020-08-05 05:01:56,314 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 05:01:56,713 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 05:04:56,224 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 05:05:08,400 - AccessGrantPortal -INFO - url is opened
+2020-08-05 05:05:09,200 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 05:05:09,320 - AccessGrantPortal -INFO - Enter username
+2020-08-05 05:05:09,424 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 05:05:09,822 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 05:44:00,465 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 05:44:12,573 - AccessGrantPortal -INFO - url is opened
+2020-08-05 05:44:13,379 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 05:44:13,471 - AccessGrantPortal -INFO - Enter username
+2020-08-05 05:44:13,553 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 05:44:13,924 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 10:06:26,389 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:06:40,007 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 10:06:40,101 - AccessGrantPortal -INFO - Enter username
+2020-08-05 10:06:40,246 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 10:08:35,371 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:08:47,561 - AccessGrantPortal -INFO - url is opened
+2020-08-05 10:08:49,138 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 10:08:49,230 - AccessGrantPortal -INFO - Enter username
+2020-08-05 10:08:49,353 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 10:08:49,715 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 10:08:50,535 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:09:01,062 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 10:09:01,133 - AccessGrantPortal -INFO - Enter username
+2020-08-05 10:09:01,228 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 10:14:26,639 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:14:38,881 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:17:15,272 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:17:27,235 - AccessGrantPortal -INFO - url is opened
+2020-08-05 10:17:27,968 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 10:17:28,071 - AccessGrantPortal -INFO - Enter username
+2020-08-05 10:17:28,157 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 10:17:28,550 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 10:17:29,288 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:17:39,908 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 10:17:39,982 - AccessGrantPortal -INFO - Enter username
+2020-08-05 10:17:40,051 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 10:27:14,430 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:27:26,478 - AccessGrantPortal -INFO - url is opened
+2020-08-05 10:27:57,905 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:44:53,617 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 10:45:05,652 - AccessGrantPortal -INFO - url is opened
+2020-08-05 10:45:27,732 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:13:04,477 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:13:16,560 - AccessGrantPortal -INFO - url is opened
+2020-08-05 11:13:48,260 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:13:50,817 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:14:04,275 - AccessGrantPortal -INFO - url is opened
+2020-08-05 11:14:52,740 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:17:07,440 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:17:50,407 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:28:16,285 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:29:42,788 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:46:40,224 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:49:22,478 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 11:53:51,856 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:00:36,164 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:00:48,547 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 12:00:48,621 - AccessGrantPortal -INFO - Enter username
+2020-08-05 12:00:48,729 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 12:00:49,161 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 12:06:56,377 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:07:08,677 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:07:50,918 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:08:57,890 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:09:41,510 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:09:53,932 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 12:09:54,016 - AccessGrantPortal -INFO - Enter username
+2020-08-05 12:09:54,134 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 12:09:54,615 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 12:10:50,740 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:11:03,137 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 12:11:03,222 - AccessGrantPortal -INFO - Enter username
+2020-08-05 12:11:03,350 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 12:11:03,786 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 12:11:04,539 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 12:11:15,175 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 12:11:15,242 - AccessGrantPortal -INFO - Enter username
+2020-08-05 12:11:15,344 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 13:16:03,155 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 13:16:15,999 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 13:16:16,112 - AccessGrantPortal -INFO - Enter username
+2020-08-05 13:16:16,236 - AccessGrantPortal -INFO - Enter UEN
+2020-08-05 13:16:16,872 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-05 13:16:18,476 - AccessGrantPortal -INFO - launch Chrome
+2020-08-05 13:16:29,137 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-05 13:16:29,218 - AccessGrantPortal -INFO - Enter username
+2020-08-05 13:16:29,318 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 05:09:43,969 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 05:09:56,602 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 05:09:56,705 - AccessGrantPortal -INFO - Enter username
+2020-08-06 05:09:56,795 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 05:10:00,370 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-06 05:10:01,036 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 05:10:11,526 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 05:10:11,594 - AccessGrantPortal -INFO - Enter username
+2020-08-06 05:10:11,685 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:19:48,422 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:20:01,182 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:20:01,298 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:20:01,407 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:31:14,013 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:31:26,330 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:31:26,435 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:31:26,528 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:31:33,184 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-06 23:33:23,439 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:33:35,823 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:33:35,924 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:33:36,025 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:33:39,645 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-06 23:38:07,774 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:38:20,351 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:38:20,442 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:38:20,537 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:38:24,174 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-06 23:39:57,366 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:40:09,929 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:40:10,046 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:40:10,148 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:40:13,728 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-06 23:40:32,917 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:40:45,084 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:40:45,178 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:40:45,267 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:40:48,862 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-06 23:41:21,686 - AccessGrantPortal -INFO - launch Chrome
+2020-08-06 23:41:34,033 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-06 23:41:34,153 - AccessGrantPortal -INFO - Enter username
+2020-08-06 23:41:34,265 - AccessGrantPortal -INFO - Enter UEN
+2020-08-06 23:41:37,874 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 00:35:58,964 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 00:36:12,113 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 00:36:12,213 - AccessGrantPortal -INFO - Enter username
+2020-08-07 00:36:12,322 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 00:36:15,914 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 00:36:15,931 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 00:36:26,614 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 00:36:26,690 - AccessGrantPortal -INFO - Enter username
+2020-08-07 00:36:26,776 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 00:41:51,863 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 00:42:04,296 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 00:42:04,398 - AccessGrantPortal -INFO - Enter username
+2020-08-07 00:42:04,488 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 00:42:08,136 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 00:42:08,809 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 00:42:19,784 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 00:42:19,870 - AccessGrantPortal -INFO - Enter username
+2020-08-07 00:42:19,950 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 00:42:23,422 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:06:22,082 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:06:34,623 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:06:34,713 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:06:34,801 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:06:38,371 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:10:20,191 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:10:32,606 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:10:32,701 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:10:32,795 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:10:36,362 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:20:29,407 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:20:41,971 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:20:42,074 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:20:42,192 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:20:45,852 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:28:16,233 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:28:28,665 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:28:28,767 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:28:28,866 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:28:32,572 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:39:14,711 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:39:27,372 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:39:27,485 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:39:27,596 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:39:31,287 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:41:31,212 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:41:43,521 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:41:43,622 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:41:43,711 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:41:47,328 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:41:48,007 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:41:58,501 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:41:58,587 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:41:58,680 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:42:02,140 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:44:59,994 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:45:12,470 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:45:12,562 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:45:12,659 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:45:16,264 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:45:16,934 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:45:27,621 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:45:27,691 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:45:27,779 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:45:31,240 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:50:28,419 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:50:40,767 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:50:40,859 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:50:40,953 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:50:44,569 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 01:50:45,244 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 01:50:55,695 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 01:50:55,767 - AccessGrantPortal -INFO - Enter username
+2020-08-07 01:50:55,856 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 01:50:59,343 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 02:02:17,788 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 02:02:30,410 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 02:02:30,530 - AccessGrantPortal -INFO - Enter username
+2020-08-07 02:02:30,643 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 02:02:34,310 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 02:02:34,983 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 02:02:45,601 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 02:02:45,682 - AccessGrantPortal -INFO - Enter username
+2020-08-07 02:02:45,773 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 02:02:49,278 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-07 02:17:40,635 - AccessGrantPortal -INFO - launch Chrome
+2020-08-07 02:17:53,284 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-07 02:17:53,407 - AccessGrantPortal -INFO - Enter username
+2020-08-07 02:17:53,507 - AccessGrantPortal -INFO - Enter UEN
+2020-08-07 02:17:57,077 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 07:53:15,276 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 07:53:28,340 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 07:53:28,465 - AccessGrantPortal -INFO - Enter username
+2020-08-08 07:53:28,608 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 07:53:32,338 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 07:56:51,969 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 07:57:05,018 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 07:57:05,147 - AccessGrantPortal -INFO - Enter username
+2020-08-08 07:57:05,276 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 07:57:08,921 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 08:28:18,575 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 08:28:31,951 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 08:28:32,157 - AccessGrantPortal -INFO - Enter username
+2020-08-08 08:28:32,320 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 08:28:36,066 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 08:59:49,090 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 09:00:02,100 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 09:00:02,228 - AccessGrantPortal -INFO - Enter username
+2020-08-08 09:00:02,358 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 09:00:06,065 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 09:03:04,406 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 09:03:17,095 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 09:03:17,206 - AccessGrantPortal -INFO - Enter username
+2020-08-08 09:03:17,341 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 09:03:20,960 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 09:08:35,266 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 09:08:47,891 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 09:08:48,006 - AccessGrantPortal -INFO - Enter username
+2020-08-08 09:08:48,128 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 09:08:51,817 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 09:26:13,135 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 09:26:27,620 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 09:26:27,773 - AccessGrantPortal -INFO - Enter username
+2020-08-08 09:26:27,923 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 09:26:31,844 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 11:04:16,620 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 11:04:29,943 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 11:04:30,049 - AccessGrantPortal -INFO - Enter username
+2020-08-08 11:04:30,154 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 11:04:33,907 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 11:09:27,912 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 11:09:40,748 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 11:09:40,834 - AccessGrantPortal -INFO - Enter username
+2020-08-08 11:09:40,928 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 11:09:44,520 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 11:15:03,640 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 11:15:16,293 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 11:15:16,400 - AccessGrantPortal -INFO - Enter username
+2020-08-08 11:15:16,518 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 11:15:20,136 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 11:17:09,197 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 11:17:21,852 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 11:17:21,948 - AccessGrantPortal -INFO - Enter username
+2020-08-08 11:17:22,050 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 11:17:25,682 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 11:57:46,972 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 11:57:59,672 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 11:57:59,764 - AccessGrantPortal -INFO - Enter username
+2020-08-08 11:57:59,861 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 11:58:03,522 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 12:04:55,293 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 12:05:07,978 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 12:05:08,076 - AccessGrantPortal -INFO - Enter username
+2020-08-08 12:05:08,192 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 12:05:11,757 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 12:17:31,683 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 12:17:44,266 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 12:17:44,358 - AccessGrantPortal -INFO - Enter username
+2020-08-08 12:17:44,487 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 12:17:48,148 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 12:25:26,095 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 12:25:38,711 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 12:25:38,817 - AccessGrantPortal -INFO - Enter username
+2020-08-08 12:25:38,905 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 12:25:42,524 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 13:44:13,416 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 13:44:26,022 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 13:44:26,116 - AccessGrantPortal -INFO - Enter username
+2020-08-08 13:44:26,205 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 13:44:29,848 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 13:56:37,949 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 13:56:50,374 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 13:56:50,459 - AccessGrantPortal -INFO - Enter username
+2020-08-08 13:56:50,548 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 13:56:54,191 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 13:58:20,781 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 13:58:33,334 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 13:58:33,428 - AccessGrantPortal -INFO - Enter username
+2020-08-08 13:58:33,517 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 13:58:37,140 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:01:27,829 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:01:40,246 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:01:40,338 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:01:40,430 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:01:44,022 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:11:21,262 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:11:33,580 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:11:33,674 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:11:33,774 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:11:37,343 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:15:20,430 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:15:33,032 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:15:33,127 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:15:33,312 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:15:36,782 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:15:37,528 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:15:48,053 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:15:48,124 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:15:48,220 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:15:51,804 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:15:59,661 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:16:10,294 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:16:10,367 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:16:10,455 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:16:13,925 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:16:22,055 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:16:32,573 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:16:32,642 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:16:32,746 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:16:36,268 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:16:44,219 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:16:54,891 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:16:54,961 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:16:55,050 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:16:58,604 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:54:48,630 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:55:01,707 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:55:01,814 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:55:01,924 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:55:05,700 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 14:56:44,813 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 14:56:57,319 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 14:56:57,432 - AccessGrantPortal -INFO - Enter username
+2020-08-08 14:56:57,631 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 14:57:01,366 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:32:21,536 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:32:34,245 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:32:34,354 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:32:34,468 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:32:38,085 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:34:38,944 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:34:51,380 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:34:51,474 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:34:51,567 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:34:55,130 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:41:30,610 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:41:43,036 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:41:43,155 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:41:43,251 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:41:46,865 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:47:25,782 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:47:38,289 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:47:38,373 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:47:38,460 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:47:42,054 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:50:07,475 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:50:20,050 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:50:20,155 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:50:20,251 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:50:23,798 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:51:32,591 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:51:45,239 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:51:45,332 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:51:45,428 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:51:49,011 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:55:55,522 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:56:08,027 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:56:08,155 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:56:08,263 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:56:11,843 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:56:40,637 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:56:52,873 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:56:52,967 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:56:53,080 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:56:56,566 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 16:59:17,352 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 16:59:29,864 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 16:59:29,960 - AccessGrantPortal -INFO - Enter username
+2020-08-08 16:59:30,061 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 16:59:33,702 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 22:08:49,181 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 22:09:01,744 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 22:09:01,842 - AccessGrantPortal -INFO - Enter username
+2020-08-08 22:09:01,935 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 22:09:05,555 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 22:17:09,213 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 22:17:21,921 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 22:17:22,028 - AccessGrantPortal -INFO - Enter username
+2020-08-08 22:17:22,146 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 22:17:25,794 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 22:30:29,201 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 22:30:42,132 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 22:30:42,222 - AccessGrantPortal -INFO - Enter username
+2020-08-08 22:30:42,311 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 22:30:46,027 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 22:31:34,103 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 22:31:47,375 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 22:31:47,508 - AccessGrantPortal -INFO - Enter username
+2020-08-08 22:31:47,633 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 22:31:51,221 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 22:57:40,610 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 22:57:53,200 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 22:57:53,288 - AccessGrantPortal -INFO - Enter username
+2020-08-08 22:57:53,376 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 22:57:56,962 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:01:37,667 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:01:50,010 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:01:50,106 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:01:50,202 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:01:53,861 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:05:45,804 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:05:58,252 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:05:58,365 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:05:58,482 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:06:02,094 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:12:49,906 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:13:02,714 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:13:02,811 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:13:02,929 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:13:06,461 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:17:52,770 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:18:05,509 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:18:05,636 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:18:05,758 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:18:09,401 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:20:58,170 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:21:10,808 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:21:10,921 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:21:11,031 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:21:14,639 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:21:34,687 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:21:47,323 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:21:47,415 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:21:47,515 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:21:51,101 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:28:37,825 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:28:50,352 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:28:50,441 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:28:50,538 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:28:54,188 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:34:20,770 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:34:33,818 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:34:33,913 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:34:34,038 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:34:37,779 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-08 23:54:17,744 - AccessGrantPortal -INFO - launch Chrome
+2020-08-08 23:54:30,435 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-08 23:54:30,533 - AccessGrantPortal -INFO - Enter username
+2020-08-08 23:54:30,649 - AccessGrantPortal -INFO - Enter UEN
+2020-08-08 23:54:34,270 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:01:14,295 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:01:26,874 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:01:26,974 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:01:27,077 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:01:30,675 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:04:39,573 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:04:51,996 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:04:52,101 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:04:52,218 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:04:55,845 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:10:19,572 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:10:33,230 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:10:33,336 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:10:33,430 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:10:37,643 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:11:34,383 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:11:46,818 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:11:46,933 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:11:47,017 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:11:50,613 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:16:41,521 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:16:54,227 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:16:54,334 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:16:54,425 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:16:58,081 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:19:14,025 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:19:26,348 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:19:26,449 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:19:26,570 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:19:30,263 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:23:19,339 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:23:31,644 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:23:31,742 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:23:31,858 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:23:35,449 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:43:52,477 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:44:05,262 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:44:05,358 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:44:05,451 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:44:09,138 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:45:30,577 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:45:43,013 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:45:43,103 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:45:43,192 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:45:46,932 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:47:42,874 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:47:55,446 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:47:55,542 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:47:55,657 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:47:59,263 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 00:53:21,013 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 00:53:33,760 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 00:53:33,850 - AccessGrantPortal -INFO - Enter username
+2020-08-09 00:53:33,942 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 00:53:37,579 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 01:01:32,252 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 01:01:44,834 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 01:01:44,924 - AccessGrantPortal -INFO - Enter username
+2020-08-09 01:01:45,012 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 01:01:48,605 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 01:02:35,225 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 01:02:47,880 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 01:02:47,999 - AccessGrantPortal -INFO - Enter username
+2020-08-09 01:02:48,093 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 01:02:51,667 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 01:25:44,835 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 01:25:57,794 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 01:25:57,907 - AccessGrantPortal -INFO - Enter username
+2020-08-09 01:25:58,017 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 01:26:01,597 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 13:11:48,638 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 13:12:01,275 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 13:12:01,407 - AccessGrantPortal -INFO - Enter username
+2020-08-09 13:12:01,499 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 13:12:05,152 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 13:13:59,087 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 13:14:11,606 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 13:14:11,754 - AccessGrantPortal -INFO - Enter username
+2020-08-09 13:14:11,893 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 13:14:15,521 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 13:15:15,071 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 13:15:27,637 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 13:15:27,764 - AccessGrantPortal -INFO - Enter username
+2020-08-09 13:15:27,859 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 13:15:31,469 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 13:17:35,169 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 13:17:48,095 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 13:17:48,307 - AccessGrantPortal -INFO - Enter username
+2020-08-09 13:17:48,431 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 13:17:52,108 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 13:19:22,673 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 13:19:35,512 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 13:19:35,613 - AccessGrantPortal -INFO - Enter username
+2020-08-09 13:19:35,706 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 13:19:39,333 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 13:52:19,133 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 13:52:31,822 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 13:52:31,924 - AccessGrantPortal -INFO - Enter username
+2020-08-09 13:52:32,024 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 13:52:35,731 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 14:13:07,438 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 14:13:20,251 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 14:13:20,354 - AccessGrantPortal -INFO - Enter username
+2020-08-09 14:13:20,451 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 14:13:23,932 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 14:18:29,353 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 14:18:41,675 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 14:18:41,778 - AccessGrantPortal -INFO - Enter username
+2020-08-09 14:18:41,882 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 14:18:45,547 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 14:25:35,864 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 14:25:48,373 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 14:25:48,466 - AccessGrantPortal -INFO - Enter username
+2020-08-09 14:25:48,630 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 14:25:52,126 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 22:34:48,043 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 22:35:02,599 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 22:35:02,783 - AccessGrantPortal -INFO - Enter username
+2020-08-09 22:35:02,934 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 22:35:06,895 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 22:50:27,846 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 22:50:41,663 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 22:50:41,774 - AccessGrantPortal -INFO - Enter username
+2020-08-09 22:50:41,878 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 22:50:45,585 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 22:58:27,785 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 22:58:42,205 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 22:58:42,418 - AccessGrantPortal -INFO - Enter username
+2020-08-09 22:58:42,591 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 22:58:46,489 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 23:38:15,919 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 23:38:29,481 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 23:38:29,618 - AccessGrantPortal -INFO - Enter username
+2020-08-09 23:38:29,746 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 23:38:33,439 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 23:41:20,035 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 23:41:33,544 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 23:41:33,670 - AccessGrantPortal -INFO - Enter username
+2020-08-09 23:41:33,809 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 23:41:37,646 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 23:57:23,398 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 23:57:41,689 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 23:57:41,889 - AccessGrantPortal -INFO - Enter username
+2020-08-09 23:57:42,058 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 23:57:46,064 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-09 23:58:50,148 - AccessGrantPortal -INFO - launch Chrome
+2020-08-09 23:59:07,427 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-09 23:59:07,687 - AccessGrantPortal -INFO - Enter username
+2020-08-09 23:59:07,996 - AccessGrantPortal -INFO - Enter UEN
+2020-08-09 23:59:11,997 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 08:31:37,012 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 08:31:50,138 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 08:31:50,257 - AccessGrantPortal -INFO - Enter username
+2020-08-10 08:31:50,360 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 08:31:53,975 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 08:34:54,909 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 08:35:08,204 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 08:35:08,325 - AccessGrantPortal -INFO - Enter username
+2020-08-10 08:35:08,563 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 08:35:12,126 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 08:50:56,513 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 08:51:09,215 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 08:51:09,318 - AccessGrantPortal -INFO - Enter username
+2020-08-10 08:51:09,457 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 08:51:13,182 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:02:18,627 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:02:31,485 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:02:31,599 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:02:31,704 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:02:35,401 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:15:12,739 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:15:26,645 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:15:26,783 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:15:26,954 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:15:30,584 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:18:06,379 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:18:20,036 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:18:20,247 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:18:20,429 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:18:24,167 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:20:20,553 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:20:34,190 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:20:34,322 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:20:34,464 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:20:38,203 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:22:08,546 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:22:21,952 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:22:22,112 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:22:22,277 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:22:25,917 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:23:49,039 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:24:02,780 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:24:02,918 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:24:03,043 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:24:06,757 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:32:42,490 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:32:56,432 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:32:56,580 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:32:56,716 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:33:00,454 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:36:23,741 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:36:37,318 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:36:37,493 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:36:37,658 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:36:41,342 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:41:44,759 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:41:58,596 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:41:58,747 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:41:58,869 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:42:02,435 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:43:02,511 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:43:16,433 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:43:16,691 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:43:17,125 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:43:20,918 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:45:48,792 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:46:02,562 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:46:02,681 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:46:02,834 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:46:06,605 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:48:27,348 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:48:41,019 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:48:41,188 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:48:41,360 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:48:45,285 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:53:33,011 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:53:47,019 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:53:47,185 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:53:47,311 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:53:51,002 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 09:57:57,917 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:59:08,307 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 09:59:21,977 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 09:59:22,116 - AccessGrantPortal -INFO - Enter username
+2020-08-10 09:59:22,245 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 09:59:26,016 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:01:20,462 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:01:34,288 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:01:34,444 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:01:34,584 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:01:38,293 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:06:04,445 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:06:18,227 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:06:18,403 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:06:18,519 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:06:22,359 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:26:40,213 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:26:53,904 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:26:54,052 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:26:54,184 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:26:57,788 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:42:29,491 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:42:43,411 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:42:43,585 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:42:43,730 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:42:47,546 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:44:00,525 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:44:14,523 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:44:14,690 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:44:14,854 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:44:18,615 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:46:16,660 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:46:30,777 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:46:30,929 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:46:31,114 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:46:34,832 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 10:56:35,170 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 10:56:50,194 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 10:56:50,397 - AccessGrantPortal -INFO - Enter username
+2020-08-10 10:56:50,561 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 10:56:54,610 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:21:21,700 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:21:35,659 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:21:35,812 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:21:35,957 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:21:39,569 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:31:44,394 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:31:58,879 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:31:59,035 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:31:59,185 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:32:02,760 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:33:10,583 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:33:25,189 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:33:25,363 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:33:25,547 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:33:29,247 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:36:26,476 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:36:41,435 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:36:41,565 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:36:41,706 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:36:45,317 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:40:15,180 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:40:29,748 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:40:29,895 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:40:30,040 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:40:33,885 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:42:02,226 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:42:16,925 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:42:17,091 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:42:17,274 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:42:21,203 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:44:49,428 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:45:04,359 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:45:04,510 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:45:04,680 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:45:08,431 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:47:14,290 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:47:29,167 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:47:29,408 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:47:29,607 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:47:33,232 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 11:54:12,729 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 11:54:27,658 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 11:54:27,886 - AccessGrantPortal -INFO - Enter username
+2020-08-10 11:54:28,072 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 11:54:31,779 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 12:42:12,165 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 12:42:26,038 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 12:42:26,205 - AccessGrantPortal -INFO - Enter username
+2020-08-10 12:42:26,386 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 12:42:30,135 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 12:44:13,284 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 12:44:27,473 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 12:44:27,624 - AccessGrantPortal -INFO - Enter username
+2020-08-10 12:44:27,799 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 12:44:31,398 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 13:07:17,119 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 13:07:30,798 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 13:07:31,002 - AccessGrantPortal -INFO - Enter username
+2020-08-10 13:07:31,148 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 13:07:34,904 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 13:07:50,008 - AccessGrantPortal -INFO - test case failed....
+2020-08-10 14:20:40,277 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 14:20:53,835 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 14:20:53,955 - AccessGrantPortal -INFO - Enter username
+2020-08-10 14:20:54,066 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 14:20:57,728 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 14:21:51,093 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 14:22:04,703 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 14:22:04,858 - AccessGrantPortal -INFO - Enter username
+2020-08-10 14:22:04,997 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 14:22:08,661 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 14:26:03,000 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 14:26:17,061 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 14:26:17,189 - AccessGrantPortal -INFO - Enter username
+2020-08-10 14:26:17,292 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 14:26:20,896 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 15:06:50,519 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 15:07:03,327 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 15:07:03,430 - AccessGrantPortal -INFO - Enter username
+2020-08-10 15:07:03,554 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 15:07:07,175 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 18:36:57,238 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 18:37:10,046 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 18:37:10,160 - AccessGrantPortal -INFO - Enter username
+2020-08-10 18:37:10,252 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 18:37:13,856 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 18:39:27,774 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 18:39:40,155 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 18:39:40,256 - AccessGrantPortal -INFO - Enter username
+2020-08-10 18:39:40,370 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 18:39:44,041 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 18:46:42,479 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 18:46:55,153 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 18:46:55,253 - AccessGrantPortal -INFO - Enter username
+2020-08-10 18:46:55,345 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 18:46:59,154 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 18:54:04,012 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 18:54:17,289 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 18:54:17,391 - AccessGrantPortal -INFO - Enter username
+2020-08-10 18:54:17,476 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 18:54:21,004 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:10:46,635 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:10:59,577 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:10:59,706 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:10:59,808 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:11:03,502 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:14:05,154 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:14:18,772 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:14:18,868 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:14:18,962 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:14:22,995 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:17:20,233 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:17:33,048 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:17:33,156 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:17:33,257 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:17:36,926 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:24:39,203 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:24:52,077 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:24:52,174 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:24:52,267 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:24:55,933 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:35:24,814 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:35:37,411 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:35:37,556 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:35:37,663 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:35:41,309 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:39:53,516 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:40:06,622 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:40:06,750 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:40:06,841 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:40:10,656 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 19:50:18,931 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 19:50:31,550 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 19:50:31,644 - AccessGrantPortal -INFO - Enter username
+2020-08-10 19:50:31,742 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 19:50:35,349 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:04:08,240 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:04:21,244 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:04:21,342 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:04:21,428 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:04:25,069 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:14:23,651 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:14:36,294 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:14:36,403 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:14:36,532 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:14:40,195 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:15:30,828 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:15:43,482 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:15:43,572 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:15:43,757 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:15:47,420 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:23:06,668 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:23:19,687 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:23:19,789 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:23:19,882 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:23:23,516 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:45:42,607 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:45:55,662 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:45:55,760 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:45:55,863 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:45:59,475 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:46:49,493 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:47:02,138 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:47:02,267 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:47:02,412 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:47:05,988 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 20:51:47,626 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 20:52:00,604 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 20:52:00,741 - AccessGrantPortal -INFO - Enter username
+2020-08-10 20:52:00,874 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 20:52:04,526 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 21:04:53,165 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 21:05:06,187 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 21:05:06,288 - AccessGrantPortal -INFO - Enter username
+2020-08-10 21:05:06,390 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 21:05:10,049 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 21:40:03,506 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 21:40:16,990 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 21:40:17,109 - AccessGrantPortal -INFO - Enter username
+2020-08-10 21:40:17,248 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 21:40:21,110 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 22:02:03,584 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 22:02:16,419 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 22:02:16,561 - AccessGrantPortal -INFO - Enter username
+2020-08-10 22:02:16,658 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 22:02:20,255 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 22:06:50,289 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 22:07:03,261 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 22:07:03,353 - AccessGrantPortal -INFO - Enter username
+2020-08-10 22:07:03,451 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 22:07:06,942 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 22:07:22,478 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 22:07:33,445 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 22:07:33,509 - AccessGrantPortal -INFO - Enter username
+2020-08-10 22:07:33,602 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 22:07:37,115 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 22:07:48,773 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 22:07:59,566 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 22:07:59,728 - AccessGrantPortal -INFO - Enter username
+2020-08-10 22:07:59,829 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 22:08:03,286 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 22:08:14,854 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 22:08:25,748 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 22:08:25,813 - AccessGrantPortal -INFO - Enter username
+2020-08-10 22:08:25,901 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 22:08:29,459 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-10 22:08:48,582 - AccessGrantPortal -INFO - launch Chrome
+2020-08-10 22:08:59,470 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-10 22:08:59,561 - AccessGrantPortal -INFO - Enter username
+2020-08-10 22:08:59,682 - AccessGrantPortal -INFO - Enter UEN
+2020-08-10 22:09:03,285 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-11 22:13:08,084 - AccessGrantPortal -INFO - launch Chrome
+2020-08-11 22:13:21,385 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-11 22:13:21,490 - AccessGrantPortal -INFO - Enter username
+2020-08-11 22:13:21,603 - AccessGrantPortal -INFO - Enter UEN
+2020-08-11 22:13:25,233 - AccessGrantPortal -INFO - Login Test Passed
+2020-08-11 22:23:53,822 - AccessGrantPortal -INFO - launch Chrome
+2020-08-11 22:24:06,647 - AccessGrantPortal -INFO - Enter NRIC
+2020-08-11 22:24:06,763 - AccessGrantPortal -INFO - Enter username
+2020-08-11 22:24:06,911 - AccessGrantPortal -INFO - Enter UEN
+2020-08-11 22:24:10,583 - AccessGrantPortal -INFO - Login Test Passed
